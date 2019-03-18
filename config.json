@@ -2,9 +2,9 @@
   "server": "127.0.0.1",
   "local_address": "127.0.0.1",
   "scheme": "ws",
-  "local_port": 1080,
-  "remote_port": 8080,
-  "password": "`try*(^^$some^$%^complex>:<>?~password/",
+  "local_port": 10980,
+  "remote_port": 8099,
+  "password": "HelloHerku",
   "timeout": 600,
   "method": "rc4-md5"
 }
