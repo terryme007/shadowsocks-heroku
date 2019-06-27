@@ -6,5 +6,5 @@
   "remote_port": 8099,
   "password": "HelloHerku",
   "timeout": 600,
-  "method": "rc4-md5"
+  "method": "camellia-256-cfb"
 }
